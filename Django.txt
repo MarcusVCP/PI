@@ -1,6 +1,0 @@
-django-admin startproject (NOME)  =  cria um projeto
-
-python manage.py runserver  =  mostrar o site servidor
-
-python manage.py startapp polls  =  cria aplicativo de tabelas
-
